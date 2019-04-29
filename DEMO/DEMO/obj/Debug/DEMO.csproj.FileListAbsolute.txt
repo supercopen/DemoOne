@@ -1,0 +1,17 @@
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\bin\Debug\DEMO.exe.config
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\bin\Debug\DEMO.exe
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\bin\Debug\DEMO.pdb
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.csprojAssemblyReference.cache
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.Logpas.resources
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.Properties.Resources.resources
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.Reg.resources
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.csproj.GenerateResource.cache
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.exe
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.pdb
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.Admin.resources
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.Kladovshik.resources
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.Meneger.resources
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.Zakachik.resources
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.Furnitura.resources
+C:\Users\Alex\Desktop\Подготовка к демоэкзамену\DEMO\DEMO\obj\Debug\DEMO.tkani.resources
